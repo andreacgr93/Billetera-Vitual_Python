@@ -1,0 +1,5 @@
+HISTORIAL DE TRANSACCIONES
+
+Fecha: 19/05/2020. Moneda: BTC. Monto (+):      1.00. Cantidad (USD):   9710.00. Código: HOLA
+Fecha: 19/05/2020. Moneda: ETH. Monto (+):      3.00. Cantidad (USD):    642.03. Código: HOLAAA
+Fecha: 19/05/2020. Moneda: LTC. Monto (+):      1.00. Cantidad (USD):     45.21. Código: HOLAB
